@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://umeciaqe.github.io/QRs/sitemap_index.txt
+Sitemap: https://umeciaqe.github.io/QyR/sitemap_index.txt
+Sitemap: https://umeciaqe.github.io/hTx/sitemap_index.txt
+Sitemap: https://umeciaqe.github.io/stE/sitemap_index.txt
